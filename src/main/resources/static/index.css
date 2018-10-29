@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+}
+
+.banner-image {
+    width: 300px;
+    height: 140px;
+}
+
+.theme {
+    font-family: PingFangSC-Semibold;
+    font-size: 20px;
+    color: #474245;
+    letter-spacing: 0;
+}
+
+.summny {
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    color: #474245;
+    letter-spacing: 0.26px;
+}
+
+.title {
+    font-family: PingFangSC-Semibold;
+    font-size: 14px;
+    color: #969696;
+    letter-spacing: 0.3px;
+}
+
+.content {
+    font-family: PingFangSC-Regular;
+    font-size: 12px;
+    color: #969696;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.button {
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    background: #FF4891;
+    border-radius: 100px;
+    text-align: center;
+    width: auto;
+    display: inline-block;
+    padding: 15px;
+}
